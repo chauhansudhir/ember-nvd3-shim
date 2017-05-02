@@ -1,5 +1,6 @@
 /*jshint node:true*/
 module.exports = {
+  name: 'ember-nvd3-shim',
   description: 'Installation blueprint for ember-nvd3-shim',
   normalizeEntityName: function() {},
 
